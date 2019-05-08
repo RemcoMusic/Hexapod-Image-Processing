@@ -1,6 +1,8 @@
 # Hexapod-Image-Processing
 This repository is for developing the image processing part for the Hexapod robot.
 
+To use this program check the [wiki](https://github.com/RemcoMusic/Hexapod-Image-Processing/wiki) for instructions
+
 There are 2 directories one is for the actual program working and the other one is for testing different components.
 
 The main development will be done in the src folder. Here are 2 files. trained_detector.py is the one which detects person the best.
