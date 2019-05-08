@@ -1,0 +1,3 @@
+python camera_test.py
+
+python trained_detector_test.py --mask-rcnn mask-rcnn-coco --image images/example_01.jpg
