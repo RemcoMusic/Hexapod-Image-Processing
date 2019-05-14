@@ -1,2 +1,5 @@
 #IDE Settings
 /.idea/*
+
+#Yolo coco files
+/src/yolo-coco/*
